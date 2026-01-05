@@ -10,7 +10,7 @@
 ### **THE RULE STATES**  
 **`|`** a system optimized to an extreme — for minimal weight, maximum speed, or theoretical purity — becomes brittle.   
 **`|`** its integrity depends on an ideal, controlled environment.   
-**`|`** the moment it encounters an unplanned, real-world imperfection (a stone chip, a race curb, a corrupted packet, a malformed input)  
+**`|`** the moment it encounters an unplanned, real-world imperfection (a corrupted packet, a malformed input). 
 **`|`** its complex, interdependent structure can fail catastrophically.   
 **`|`** its does not bend; it shatters.  
 
